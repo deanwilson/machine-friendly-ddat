@@ -1,0 +1,15 @@
+submitter: Business analyst
+themes: # rated 1-5
+  agile_working: 4
+  business_analysis: 3
+  business_modelling: 3
+  business_process_improvement: 3
+  business_process_testing: 3
+  consultancy_business_analysis: 1
+  enterprise_and_business_architecture_business_analyst: 1
+  methods_and_tools: 3
+  requirements_definition_and_management: 3
+  stakeholder_relationship_management_business_analysis: 3
+  systems_analysis: 3
+  testing_business_analysis: 3
+  user_experience_analysis: 3

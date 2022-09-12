@@ -1,0 +1,12 @@
+submitter: Product manager
+themes: # rated 1-5
+  agile_working: 4
+  ddat_perspective: 3
+  financial_ownership: 4
+  life_cycle_perspective: 3
+  operational_management: 4
+  problem_management: 4
+  product_ownership: 4
+  strategic_ownership: 4
+  user_focus: 4
+  working_within_constraints: 3

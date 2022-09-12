@@ -1,0 +1,13 @@
+submitter: Senior data engineer
+themes: # rated 1-5
+  communicating_between_the_technical_and_non-technical: 3
+  data_analysis_and_synthesis: 3
+  data_development_process: 4
+  data_innovation: 3
+  data_integration_design: 4
+  data_modelling: 4
+  metadata_management: 4
+  problem_resolution_data: 3
+  programming_and_build_data_engineering: 4
+  technical_understanding: 3
+  testing: 3
