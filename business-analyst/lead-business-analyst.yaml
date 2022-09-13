@@ -1,0 +1,15 @@
+submitter: Lead business analyst
+themes: # rated 1-5
+  agile_working: 5
+  business_analysis: 5
+  business_modelling: 5
+  business_process_improvement: 5
+  business_process_testing: 5
+  consultancy_business_analysis: 3
+  enterprise_and_business_architecture_business_analyst: 3
+  methods_and_tools: 5
+  requirements_definition_and_management: 5
+  stakeholder_relationship_management_business_analysis: 5
+  systems_analysis: 5
+  testing_business_analysis: 4
+  user_experience_analysis: 4
